@@ -18,8 +18,6 @@ string mixText(string x,string y){
 		}
 	
 	
-
-
 	
 }
 
